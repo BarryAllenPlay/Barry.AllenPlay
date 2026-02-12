@@ -35,17 +35,9 @@ Quer falar comigo sobre projetos, parcerias ou cosplay?
 
 ---
 
-## 📸 Galeria de Destaques
+## 📸 Destaque
 
-Confira meus posts e cosplays mais recentes no Instagram:
-
-| ⚡ Foto 1 | ⚡ Foto 2 |
-| :---: | :---: |
-| [![Insta 1](https://img.shields.io/badge/Ver_no-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p/DN57DfkjSou/) | [![Insta 2](https://img.shields.io/badge/Ver_no-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p/DLAZtU4Roev/) |
-
-| ⚡ Foto 3 | ⚡ Foto 4 |
-| :---: | :---: |
-| [![Insta 3](https://img.shields.io/badge/Ver_no-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p/DJfAStkRXhB/) | [![Insta 4](https://img.shields.io/badge/Ver_no-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p/DImbSIuRwrE/) |
+![Cosplay com Escudo e Pistola](image_0.png)
 
 ---
 

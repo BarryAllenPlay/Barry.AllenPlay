@@ -29,22 +29,23 @@ Quer falar comigo sobre projetos, parcerias ou cosplay?
 
 ---
 
-## 📸 Portfólio & Mídia
-
-### 🎭 Meus Cosplays & Vídeos
-Dê uma olhada no meu trabalho criativo:
-
-<div align="center">
-  <img src="https://via.placeholder.com/300x450.png?text=Foto+do+Meu+Cosplay" width="300" alt="Cosplay Mateus">
-  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJtZzZ5NXF2Znd4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBmcm9tX2dpcGh5X3NlYXJjaCZjdD1n/3ORNjIhZGFWsvcH7fm/giphy.gif" width="300" alt="Flash Running GIF">
-</div>
-
----
-
 ## 🛠️ Tecnologias
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,mysql,vscode)
+
+---
+
+## 📸 Galeria de Destaques
+
+Confira meus posts e cosplays mais recentes no Instagram:
+
+| ⚡ Foto 1 | ⚡ Foto 2 |
+| :---: | :---: |
+| [![Insta 1](https://img.shields.io/badge/Ver_no-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p/DN57DfkjSou/) | [![Insta 2](https://img.shields.io/badge/Ver_no-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p/DLAZtU4Roev/) |
+
+| ⚡ Foto 3 | ⚡ Foto 4 |
+| :---: | :---: |
+| [![Insta 3](https://img.shields.io/badge/Ver_no-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p/DJfAStkRXhB/) | [![Insta 4](https://img.shields.io/badge/Ver_no-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p/DImbSIuRwrE/) |
 
 ---
 

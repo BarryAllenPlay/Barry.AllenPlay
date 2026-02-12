@@ -2,26 +2,28 @@
 
 ### ⚡ Estudante de Análise e Desenvolvimento de Sistemas | Cosplayer | Content Creator
 
-Bem-vindo ao meu perfil! Sou um apaixonado por tecnologia e cultura geek, unindo a lógica da programação com a criatividade da criação de conteúdo.
+Bem-vindo ao meu perfil! Sou um apaixonado por tecnologia e cultura geek, unindo a lógica da programação com a criatividade do cosplay. Moro em **São Paulo** e estou sempre buscando novos desafios.
 
 ---
 
 ## 🚀 Sobre Mim
 
-- 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas**.
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **Anhanguera**.
+- 📍 Moro em **São Paulo, SP**.
 - 🎭 Faço **Cosplays** e trago personagens à vida.
-- 📹 Produzo vídeos para o **TikTok** e **Instagram**.
-- 🎂 24 anos.
-- 🏃‍♂️ "O homem mais rápido vivo" (pelo menos nas minhas redes sociais!).
+- 📹 Crio conteúdo para o **TikTok** e **Instagram**.
+- 🎂 Tenho 24 anos.
+- ⚡ Fã do Flash (e tentando codar na mesma velocidade!).
 
 ---
 
-## 📱 Onde me encontrar
+## 📬 Contato & Redes Sociais
 
-Conecte-se comigo e acompanhe meus trabalhos de cosplay e vídeos:
+Quer falar comigo sobre projetos, parcerias ou cosplay?
 
-| Plataforma | Link |
+| Canal | Link / Contato |
 | :--- | :--- |
+| **Email** | [newtsca.cos@gmail.com](mailto:newtsca.cos@gmail.com) |
 | **Instagram** | [@Barry.AllenPlay](https://www.instagram.com/Barry.AllenPlay) |
 | **TikTok** | [@Barry.AllenPlay](https://www.tiktok.com/@Barry.AllenPlay) |
 
@@ -30,19 +32,19 @@ Conecte-se comigo e acompanhe meus trabalhos de cosplay e vídeos:
 ## 📸 Portfólio & Mídia
 
 ### 🎭 Meus Cosplays & Vídeos
-Aqui estão alguns dos meus conteúdos recentes:
+Dê uma olhada no meu trabalho criativo:
 
 <div align="center">
-  <img src="https://via.placeholder.com/300x450.png?text=Foto+do+Meu+Cosplay+Aqui" width="300" alt="Cosplay Mateus">
+  <img src="https://via.placeholder.com/300x450.png?text=Foto+do+Meu+Cosplay" width="300" alt="Cosplay Mateus">
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJtZzZ5NXF2Znd4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBmcm9tX2dpcGh5X3NlYXJjaCZjdD1n/3ORNjIhZGFWsvcH7fm/giphy.gif" width="300" alt="Flash Running GIF">
 </div>
 
 ---
 
-## 🛠️ Tecnologias que estou aprendendo
+## 🛠️ Tecnologias
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,mysql)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,mysql,vscode)
 
 ---
 

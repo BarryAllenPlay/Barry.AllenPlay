@@ -38,7 +38,7 @@ Quer falar comigo sobre projetos, parcerias ou cosplay?
 ## 📸 Destaque
 
 <div align="center">
-  <img src="cosplay.jpg" width="500" alt="Cosplay Mateus Doom Slayer">
+  <img src="cosplay.png" width="500" alt="Cosplay Mateus Doom Slayer">
 </div>
 
 ---

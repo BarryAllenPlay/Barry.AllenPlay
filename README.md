@@ -38,7 +38,7 @@ Quer falar comigo sobre projetos, parcerias ou cosplay?
 ## 📸 Destaque
 
 <div align="center">
-  <img src="doom.jpg" width="500" alt="Cosplay Mateus Doom Slayer">
+  <img src="cosplay.jpg" width="500" alt="Cosplay Mateus Doom Slayer">
 </div>
 
 ---
@@ -47,5 +47,4 @@ Quer falar comigo sobre projetos, parcerias ou cosplay?
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarryAllenPlay&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarryAllenPlay&layout=compact&langs_count=7&theme=radical" />
-</div>
+  <img height="180

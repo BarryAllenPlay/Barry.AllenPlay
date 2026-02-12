@@ -37,7 +37,9 @@ Quer falar comigo sobre projetos, parcerias ou cosplay?
 
 ## 📸 Destaque
 
-![Cosplay com Escudo e Pistola](image_0.png)
+<div align="center">
+  <img src="cosplay.png" width="500" alt="Cosplay Mateus Doom Slayer">
+</div>
 
 ---
 

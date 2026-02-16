@@ -34,13 +34,3 @@ Quer falar comigo sobre projetos, parcerias ou cosplay?
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,mysql,vscode)
 
 ---
-
-
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarryAllenPlay&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180

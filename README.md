@@ -1,4 +1,4 @@
-# Olá, eu sou o Mateus! 👋 (aka Barry.AllenPlay)
+# Olá, eu sou o Mateus! 👋 (Barry.AllenPlay)
 
 ### ⚡ Estudante de Análise e Desenvolvimento de Sistemas | Cosplayer | Content Creator
 
@@ -13,7 +13,7 @@ Bem-vindo ao meu perfil! Sou um apaixonado por tecnologia e cultura geek, unindo
 - 🎭 Faço **Cosplays** e trago personagens à vida.
 - 📹 Crio conteúdo para o **TikTok** e **Instagram**.
 - 🎂 Tenho 24 anos.
-- ⚡ Fã do Flash (e tentando codar na mesma velocidade!).
+- ⚡ Fã da cultura Geek (Enquanto a ciência continuar a crescer e florescer, a Humanidade nunca morrerá!!).
 
 ---
 
@@ -35,11 +35,7 @@ Quer falar comigo sobre projetos, parcerias ou cosplay?
 
 ---
 
-## 📸 Destaque
 
-<div align="center">
-  <img src="cosplay.png" width="500" alt="Cosplay Mateus Doom Slayer">
-</div>
 
 ---
 
